@@ -9,6 +9,8 @@ This repository contains a reinforcement learning agent interacting with the "As
 - PyTorch
 - torchvision
 
+For detailed instructions on setting up your environment, watch this video: [How to Setup Your Environment](https://youtu.be/gMgj4pSHLww?si=xq3wESPpZe6HmgWz)
+
 
 ## Code Overview
 
@@ -25,7 +27,7 @@ This repository contains a reinforcement learning agent interacting with the "As
 - The observation is normalized and converted to a tensor.
 - A PyTorch DataLoader is prepared (currently commented out in the code).
 - Augmentations are applied to the observations using torchvision transforms.
-- A neural network model (not fully defined in the provided snippet) processes the observation tensor.
+- A neural network model processes the observation tensor.
 
 ### Environment Closure
 - The environment is closed after the loop completes.
