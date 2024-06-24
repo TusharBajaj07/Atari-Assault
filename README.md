@@ -32,3 +32,5 @@ For detailed instructions on setting up your environment, watch this video: [How
 ### Environment Closure
 - The environment is closed after the loop completes.
 
+
+#### Video explanation link [Code Explanation](https://drive.google.com/drive/folders/1fE2viRx0kIoLONUnnNXeGx1PNrwuvpvJ?usp=drive_link)
